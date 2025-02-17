@@ -1,0 +1,62 @@
+.testcases-container {
+  background: #f8f9fa;
+}
+
+.ant-table-content {
+  border: 1px solid #e4dbdb;
+  border-top-left-radius: 6px;
+  border-top-right-radius: 6px;
+}
+
+.header {
+  display: flex;
+  justify-content: space-between;
+  margin-bottom: 16px;
+  flex-wrap: wrap;
+}
+
+.search-input {
+  width: 300px;
+}
+
+.buttons {
+  display: flex;
+  gap: 10px;
+}
+
+.generate-btn {
+  border: none;
+  color: black;
+}
+
+.create-btn {
+  background: #7366ff;
+  border: none;
+}
+
+.ant-table-thead>tr>th {
+  background: #f8f9fa !important;
+}
+
+.pagination-container {
+  display: flex;
+  justify-content: space-between;
+  border: 1px solid #e4dbdb;
+  background-color: white;
+  padding: 15px 20px;
+  border-bottom-left-radius: 6px;
+  border-bottom-right-radius: 6px;
+}
+
+.pagination {
+  margin-top: 16px;
+  text-align: center;
+}
+
+.ant-spin-container {
+  overflow: auto;
+}
+
+.ant-table-content {
+  overflow: auto;
+}
